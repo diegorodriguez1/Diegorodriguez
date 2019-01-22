@@ -1,8 +1,15 @@
 body {background: darkseagreen;}
 h1 {
-  font-family: Bradley Hand, cursive;
+  font-family: FreeMono, monospace;
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
   text-allign: center;
+}
+
+body { 
+  font-family: FreeMono, monospace;
+  text-allign: right;
+  color: white;
+  background-color: black;
 }
