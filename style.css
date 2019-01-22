@@ -2,12 +2,11 @@ body {background: darkseagreen;}
 h1 {
   font-family:'Raleway', sans-serif;
   font-size: 36px;
-  font-weight: bold;
   text-transform: uppercase;
   text-align: center;
 }
 
-body { 
+.navigation{ 
   font-family:'Raleway', sans-serif;
   text-align: right;
   color: white;
