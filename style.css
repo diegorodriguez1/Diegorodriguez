@@ -1,1 +1,8 @@
 body {background: red;}
+h1 {
+  font-family: Ariel;
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: cursive;
+  text-transform: uppercase;
+}
