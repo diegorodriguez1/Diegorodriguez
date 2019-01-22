@@ -4,12 +4,12 @@ h1 {
   font-size: 36px;
   font-weight: bold;
   text-transform: uppercase;
-  text-allign: center;
+  text-align: center;
 }
 
 body { 
   font-family: FreeMono, monospace;
-  text-allign: right;
+  text-align: right;
   color: white;
   background-color: black;
 }
