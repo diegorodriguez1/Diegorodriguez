@@ -192,9 +192,7 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-.scrolling-box {
-  width: 100px;
-  height: 500px;
-  scroll-behavior: smooth;
-  overflow: auto;
+.scrolling-box {  html {
+    scroll-behavior: smooth;
+  }
 }
