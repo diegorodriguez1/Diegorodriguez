@@ -193,6 +193,8 @@ a:hover, a:focus, a:active {
 }
 
 .scrolling-box {
-  overflow-y: scroll;
+  width: 100px;
+  height: 500px;
   scroll-behavior: smooth;
+  overflow: auto;
 }
